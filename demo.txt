@@ -1,6 +1,8 @@
-Hello World!!
+Hollo Worod!!
 
 込込込込
 
 
 test for branch function!!
+
+test for merge master and dev2!!
